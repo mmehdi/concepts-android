@@ -1,4 +1,4 @@
-package entryphone.co.uk.mvvm
+package mmehdi.com.mvvm
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
@@ -9,7 +9,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
-import entryphone.co.uk.mvvm.databinding.ActivityMainBinding
+import mmehdi.com.mvvm.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

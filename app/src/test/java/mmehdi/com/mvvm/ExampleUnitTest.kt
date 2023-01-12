@@ -1,4 +1,4 @@
-package entryphone.co.uk.mvvm
+package mmehdi.com.mvvm
 
 import org.junit.Test
 
